@@ -1,0 +1,17 @@
+.divTitulo h1{
+    font-size: 45px;
+    color: midnightblue;
+}        
+img{
+    width: 200px;      
+}
+.Area{
+    color: darkred;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+.Texto{
+    font-size: 20px;
+}
